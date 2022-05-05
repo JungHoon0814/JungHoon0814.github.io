@@ -2,7 +2,7 @@
 layout: list
 type: category
 title: TIL
-slug: til
+slug: TIL
 sidebar: true
 order: 2
 description: >
