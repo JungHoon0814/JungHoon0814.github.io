@@ -2,9 +2,9 @@
 layout: list
 type: category
 title: TIL
-slug: til
+slug: TIL
 sidebar: true
-order: 2
+order: 1
 description: >
  Today I Learn
 ---
