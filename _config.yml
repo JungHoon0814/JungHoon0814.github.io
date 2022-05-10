@@ -49,7 +49,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             TIL
-    url:               /TIL/
+    url:               /til/
   - title:             Study
     url:               /study/ 
   - title:             Tags
