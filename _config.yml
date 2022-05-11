@@ -48,14 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Study
-    url:               /study/ 
   - title:             TIL
     url:               /til/
-  - title:             Blog
-    url:               /blog/
-  - title:             Error Handling
-    url:               /errhandling/  
+  - title:             Study
+    url:               /study/ 
   - title:             Tags
     url:               /tags/
   - title:             About

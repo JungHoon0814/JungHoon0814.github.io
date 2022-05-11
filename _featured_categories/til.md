@@ -4,7 +4,7 @@ type: category
 title: TIL
 slug: TIL
 sidebar: true
-order: 2
+order: 1
 description: >
  Today I Learn
 ---
